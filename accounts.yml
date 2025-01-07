@@ -1,0 +1,11 @@
+
+build:
+  version: "3.0"
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs "
+  contactDetails:
+    name: "Anusha - Developer"
+    email: "anusha@gmail.com"
+  onCallSupport:
+    - 2017267529
+    - 1234567890
